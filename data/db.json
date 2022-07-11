@@ -1,0 +1,584 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "avatar": {
+        "image_path": "../images/profile-images/profile-woman.png",
+        "image_alt": "Profile image of Loreta Ipsum"
+      },
+      "first_name": "Loreta",
+      "last_name": "Ipsum",
+      "email": "loretaipsum@blogtalkradio.com",
+      "street": "Muir",
+      "city": "Leskovac",
+      "country": "Serbia",
+      "password": "secret",
+      "role": "Designer",
+      "status": "Active",
+      "tekuci_racun": "5108752629866969",
+      "ptt": "24000",
+      "phone": "0654215234"
+    },
+    {
+      "id": 2,
+      "avatar": {
+        "image_path": "../images/profile-images/profile-guy-one.png",
+        "image_alt": "Profile image of Waverly Rounds"
+      },
+      "first_name": "Waverly",
+      "last_name": "Rounds",
+      "email": "wrounds1@twitpic.com",
+      "street": "Dayton",
+      "city": "Banatski Dvor",
+      "country": "Serbia",
+      "password": "secret",
+      "role": "Research Nurse",
+      "status": "Active",
+      "tekuci_racun": "5108756529025907",
+      "ptt": "24000",
+      "phone": "0625741256"
+    },
+    {
+      "id": 3,
+      "avatar": {
+        "image_path": "../images/profile-images/profile-guy-two.png",
+        "image_alt": "Profile image of Hilde Phipson"
+      },
+      "first_name": "Hilde",
+      "last_name": "Phipson",
+      "email": "hphipson2@tmall.com",
+      "street": "Steensland",
+      "city": "Varna",
+      "country": "Serbia",
+      "password": "secret",
+      "role": "Help Desk Technician",
+      "status": "Active",
+      "tekuci_racun": "5108757565033268",
+      "ptt": "24000",
+      "phone": "0657452369"
+    },
+    {
+      "id": 4,
+      "avatar": {
+        "image_path": "../images/profile-images/christie-campbell.jpg",
+        "image_alt": "Profile image of Elisabet Halloway"
+      },
+      "first_name": "Elisabet",
+      "last_name": "Halloway",
+      "email": "ehalloway3@epa.gov",
+      "street": "Moulton",
+      "city": "Platičevo",
+      "country": "Serbia",
+      "password": "secret",
+      "role": "Geologist III",
+      "status": "Active",
+      "tekuci_racun": "5108750688051739",
+      "ptt": "24000",
+      "phone": "0623254152"
+    },
+    {
+      "id": 5,
+      "avatar": {
+        "image_path": "../images/profile-images/jurica-koletic.jpg",
+        "image_alt": "Profile image of Ailyn Prine"
+      },
+      "first_name": "Ailyn",
+      "last_name": "Prine",
+      "email": "aprine4@diigo.com",
+      "street": "Village",
+      "city": "Farkaždin",
+      "country": "Serbia",
+      "password": "secret",
+      "role": "Human Resources Assistant II",
+      "status": "Active",
+      "tekuci_racun": "5108751762224531",
+      "ptt": "24000",
+      "phone": "0637854124"
+    },
+    {
+      "id": 6,
+      "avatar": {
+        "image_path": "../images/profile-images/jake-nackos.jpg",
+        "image_alt": "Profile image of Reyna Skottle"
+      },
+      "first_name": "Reyna",
+      "last_name": "Skottle",
+      "email": "sskottle5@is.gd",
+      "street": "Melby",
+      "city": "Svrljig",
+      "country": "Serbia",
+      "password": "secret",
+      "role": "Design Engineer",
+      "status": "Active",
+      "tekuci_racun": "5108753849393685",
+      "ptt": "24000",
+      "phone": "0698562145"
+    },
+    {
+      "id": 7,
+      "avatar": {
+        "image_path": "../images/profile-images/stephanie-liverani.jpg",
+        "image_alt": "Profile image of Jill Gosz"
+      },
+      "first_name": "Jill",
+      "last_name": "Gosz",
+      "email": "jgosz6@cnbc.com",
+      "street": "Prairie Rose",
+      "city": "Varna",
+      "country": "Serbia",
+      "password": "secret",
+      "role": "Senior Developer",
+      "status": "Active",
+      "tekuci_racun": "5108758353829982",
+      "ptt": "24000",
+      "phone": "0612458965"
+    },
+    {
+      "id": 8,
+      "avatar": {
+        "image_path": "../images/profile-images/profile-guy-five.png",
+        "image_alt": "Profile image of Ronnie Moxley"
+      },
+      "first_name": "Ronnie",
+      "last_name": "Moxley",
+      "email": "rmoxley7@shutterfly.com",
+      "street": "Graedel",
+      "city": "Klenak",
+      "country": "Serbia",
+      "password": "secret",
+      "role": "Graphic Designer",
+      "status": "Active",
+      "tekuci_racun": "5108758144087056",
+      "ptt": "24000",
+      "phone": "0614589652"
+    },
+    {
+      "id": 9,
+      "avatar": {
+        "image_path": "../images/profile-images/profile-guy-four.png",
+        "image_alt": "Profile image of Chris Davley"
+      },
+      "first_name": "Cris",
+      "last_name": "Davley",
+      "email": "cdavley8@blogspot.com",
+      "street": "Cody",
+      "city": "Rekovac",
+      "country": "Serbia",
+      "password": "secret",
+      "role": "Executive Secretary",
+      "status": "Active",
+      "tekuci_racun": "5108754249086143",
+      "ptt": "24000",
+      "phone": "0639856741"
+    },
+    {
+      "id": 10,
+      "avatar": {
+        "image_path": "../images/profile-images/joseph-gonzalez.jpg",
+        "image_alt": "Profile image of Abdel Klarzynski"
+      },
+      "first_name": "Abdel",
+      "last_name": "Klarzynski",
+      "email": "aklarzynski9@un.org",
+      "street": "Schiller",
+      "city": "Ruma",
+      "country": "Serbia",
+      "password": "secret",
+      "role": "Mechanical Systems Engineer",
+      "status": "Active",
+      "tekuci_racun": "5108750786034991",
+      "ptt": "24000",
+      "phone": "064589230"
+    },
+    {
+      "id": 11,
+      "avatar": {
+        "image_path": "../images/profile-images/julian-wan.jpg",
+        "image_alt": "Profile image of Kele Jump"
+      },
+      "first_name": "Kele",
+      "last_name": "Jump",
+      "email": "kjumpa@bandcamp.com",
+      "street": "Bultman",
+      "city": "Beška",
+      "country": "Serbia",
+      "password": "secret",
+      "role": "Senior Sales Associate",
+      "status": "Active",
+      "tekuci_racun": "5108750005607619",
+      "ptt": "24000",
+      "phone": "0691295635"
+    },
+    {
+      "id": 12,
+      "avatar": {
+        "image_path": "../images/profile-images/profile-guy-three.png",
+        "image_alt": "Profile image of Nicholas Pountney"
+      },
+      "first_name": "Nicholas",
+      "last_name": "Pountney",
+      "email": "ppountneyb@paypal.com",
+      "street": "Garrison",
+      "city": "Debeljača",
+      "country": "Serbia",
+      "password": "secret",
+      "role": "Programmer IV",
+      "status": "Active",
+      "tekuci_racun": "5108753113861805",
+      "ptt": "24000",
+      "phone": "063527485"
+    },
+    {
+      "id": 13,
+      "avatar": {
+        "image_path": "../images/profile-images/profile-woman.png",
+        "image_alt": "Profile image of Hedwiga Matherson"
+      },
+      "first_name": "Hedwiga",
+      "last_name": "Matherson",
+      "email": "hmathersonc@etsy.com",
+      "street": "Pleasure",
+      "city": "Pavliš",
+      "country": "Serbia",
+      "password": "secret",
+      "role": "Staff Scientist",
+      "status": "Active",
+      "tekuci_racun": "5108752252553850",
+      "ptt": "24000",
+      "phone": "060254785"
+    },
+    {
+      "id": 14,
+      "avatar": {
+        "image_path": "../images/profile-images/stefan-stevic.jpg",
+        "image_alt": "Profile image of Jaye Bugdale"
+      },
+      "first_name": "Jaye",
+      "last_name": "Bugdale",
+      "email": "jbugdaled@alibaba.com",
+      "street": "Parkside",
+      "city": "Niš",
+      "country": "Serbia",
+      "password": "secret",
+      "role": "Cost Accountant",
+      "status": "Active",
+      "tekuci_racun": "5108755585675118",
+      "ptt": "24000",
+      "phone": "0603698521"
+    },
+    {
+      "id": 15,
+      "avatar": {
+        "image_path": "../images/profile-images/christie-campbell.jpg",
+        "image_alt": "Profile image of Raina Livingston"
+      },
+      "first_name": "Raina",
+      "last_name": "Livingston",
+      "email": "rlivingstone@ucla.edu",
+      "street": "Scott",
+      "city": "Savski Venac",
+      "country": "Serbia",
+      "password": "secret",
+      "role": "Administrative Officer",
+      "status": "Active",
+      "tekuci_racun": "5108755170473804",
+      "ptt": "24000",
+      "phone": "0658592741"
+    },
+    {
+      "id": 16,
+      "avatar": {
+        "image_path": "../images/profile-images/vicky-hladynets.jpg",
+        "image_alt": "Profile image of Vicky Hladynets"
+      },
+      "first_name": "Vicky",
+      "last_name": "Hladynets",
+      "email": "cpopplestonf@paypal.com",
+      "street": "Milwaukee",
+      "city": "Toba",
+      "country": "Serbia",
+      "password": "secret",
+      "role": "Nurse Practicioner",
+      "status": "Active",
+      "tekuci_racun": "5108755927602291",
+      "ptt": "24000",
+      "phone": "065237856"
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "client_name": "Unify",
+      "avatar": "https://media.istockphoto.com/photos/smart-home-symbol-picture-id1314037715?k=20&m=1314037715&s=612x612&w=0&h=hDYBWJEgIP66xyqwKPw9UbHLg6g1WhcKENjLgRQbs1s=",
+      "email": "unify@test.com",
+      "manager": "Mirko Vrknic",
+      "developers": "Lorem",
+      "billing": "Lorem Ipsum",
+      "manager_factor": "1",
+      "paymentMethod": "PayPal",
+      "invoice_data": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum"
+    },
+    {
+      "id": 2,
+      "client_name": "Like Media Inc",
+      "avatar": "https://media.istockphoto.com/photos/one-like-social-media-notification-with-thumb-up-icon-picture-id1200899039?k=20&m=1200899039&s=612x612&w=0&h=RScG0RGONTAuYLeoREVl9c6xtTsOlJAbcUjZ9y2Z244=",
+      "email": "likeManager@test.com",
+      "manager": "Jelisaveta Milovic",
+      "developers": "Lorem",
+      "billing": "Lorem Ipsum",
+      "manager_factor": "0.75",
+      "paymentMethod": "Stemi",
+      "invoice_data": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum"
+    },
+    {
+      "id": 3,
+      "client_name": "Smile holding",
+      "avatar": "https://images.unsplash.com/photo-1567446537708-ac4aa75c9c28?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "email": "unify@test.com",
+      "manager": "Mirko Vrknic",
+      "developers": "Lorem",
+      "billing": "Lorem Ipsum",
+      "manager_factor": "1",
+      "paymentMethod": "PayPal",
+      "invoice_data": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum"
+    },
+    {
+      "id": 4,
+      "client_name": "Bon Ton",
+      "avatar": "https://images.unsplash.com/photo-1602934445884-da0fa1c9d3b3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=958&q=80",
+      "email": "unify@test.com",
+      "manager": "Jelisaveta Milovic",
+      "developers": "Lorem",
+      "billing": "Lorem Ipsum",
+      "manager_factor": "1",
+      "paymentMethod": "PayPal",
+      "invoice_data": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum"
+    },
+    {
+      "id": 5,
+      "client_name": "C Dounts LTD",
+      "avatar": "https://images.unsplash.com/photo-1516876437184-593fda40c7ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
+      "email": "unify@test.com",
+      "manager": "Jelena Ivanovic",
+      "developers": "Lorem",
+      "billing": "Lorem Ipsum",
+      "manager_factor": "0.5",
+      "paymentMethod": "Cash",
+      "invoice_data": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum"
+    }
+  ],
+  "mytasks": [
+    {
+      "id": 1,
+      "client_name": "Unify",
+      "task": "Work on lorem ipsuming the pdf on the html channel",
+      "date": "03.03.2022.",
+      "time": 45
+    },
+    {
+      "id": 2,
+      "client_name": "Like Media Inc",
+      "task": "Very very long lorem ipsum clients task in hand",
+      "date": "01.03.2022.",
+      "time": 41
+    },
+    {
+      "id": 3,
+      "client_name": "kraljica",
+      "task": "cao cao",
+      "date": "2022-03-14",
+      "time": "4"
+    },
+    {
+      "id": 4,
+      "client_name": "Bon Ton",
+      "task": "Converting app to React",
+      "date": "17.02.2022.",
+      "time": 134
+    },
+    {
+      "id": 5,
+      "client_name": "C Dounts LTD",
+      "task": "Updating wordpress",
+      "date": "20.01.2022.",
+      "time": 15
+    },
+    {
+      "id": 6,
+      "client_name": "Unify",
+      "task": "Work on lorem ipsuming the pdf on the html channel",
+      "date": "17.01.2022.",
+      "time": 45
+    },
+    {
+      "id": 7,
+      "client_name": "Like Media Inc",
+      "task": "Very very long lorem ipsum clients task in hand",
+      "date": "06.01.2022.",
+      "time": 41
+    },
+    {
+      "id": 8,
+      "client_name": "Smile holding",
+      "task": "Creating responsive CSS",
+      "date": "05.01.2022.",
+      "time": 22
+    },
+    {
+      "id": 9,
+      "client_name": "Bon Ton",
+      "task": "Converting app to React",
+      "date": "04.01.2022.",
+      "time": 134
+    },
+    {
+      "id": 10,
+      "client_name": "C Dounts LTD",
+      "task": "Updating wordpress",
+      "date": "03.01.2022.",
+      "time": 15
+    },
+    {
+      "id": 11,
+      "client_name": "Unify",
+      "task": "Work on lorem ipsuming the pdf on the html channel",
+      "date": "25.12.2021.",
+      "time": 45
+    },
+    {
+      "id": 12,
+      "client_name": "Like Media Inc",
+      "task": "Very very long lorem ipsum clients task in hand",
+      "date": "24.12.2021.",
+      "time": 41
+    },
+    {
+      "id": 13,
+      "client_name": "kralj",
+      "task": "cao cao",
+      "date": "2022-03-29",
+      "time": "9"
+    },
+    {
+      "id": 14,
+      "client_name": "Bon Ton",
+      "task": "Converting app to React",
+      "date": "15.12.2021.",
+      "time": 134
+    },
+    {
+      "id": 15,
+      "client_name": "C Dounts LTD",
+      "task": "Updating wordpress",
+      "date": "12.12.2021.",
+      "time": 15
+    },
+    {
+      "id": 16,
+      "client_name": "Unify",
+      "task": "Work on lorem ipsuming the pdf on the html channel",
+      "date": "11.12.2021.",
+      "time": 45
+    },
+    {
+      "id": 17,
+      "client_name": "Like Media Inc",
+      "task": "Very very long lorem ipsum clients task in hand",
+      "date": "04.12.2021.",
+      "time": 41
+    },
+    {
+      "id": 18,
+      "client_name": "Smile holding",
+      "task": "Creating responsive CSS",
+      "date": "02.12.2021.",
+      "time": 22
+    },
+    {
+      "id": 19,
+      "client_name": "Bon Ton",
+      "task": "Converting app to React",
+      "date": "17.11.2021.",
+      "time": 134
+    },
+    {
+      "id": 20,
+      "client_name": "C Dounts LTD",
+      "task": "Updating wordpress",
+      "date": "05.11.2021.",
+      "time": 25
+    }
+  ],
+  "taskClient": [
+    {
+      "id": 1,
+      "developer": "Jump Beska",
+      "task": "Work on lorem ipsuming the pdf on the html channel",
+      "date": "03.03.2022.",
+      "time": 45
+    },
+    {
+      "id": 2,
+      "developer": "Raina Livingston",
+      "task": "Very very long lorem ipsum clients task in hand",
+      "date": "01.03.2022.",
+      "time": 41
+    },
+    {
+      "id": 3,
+      "developer": "Loreta Ipsum",
+      "task": "cao cao",
+      "date": "2022-03-14",
+      "time": "4"
+    },
+    {
+      "id": 4,
+      "developer": "Jill Gosz",
+      "task": "Converting app to React",
+      "date": "17.02.2022.",
+      "time": 134
+    },
+    {
+      "id": 5,
+      "developer": "Elisabet Halloway",
+      "task": "Updating wordpress",
+      "date": "20.01.2022.",
+      "time": 15
+    },
+    {
+      "id": 6,
+      "developer": "Hilde Phipson",
+      "task": "Work on lorem ipsuming the pdf on the html channel",
+      "date": "17.01.2022.",
+      "time": 45
+    },
+    {
+      "id": 7,
+      "developer": "Ailyn Prine",
+      "task": "Very very long lorem ipsum clients task in hand",
+      "date": "06.01.2022.",
+      "time": 41
+    },
+    {
+      "id": 8,
+      "developer": "Cris Davley",
+      "task": "Creating responsive CSS",
+      "date": "05.01.2022.",
+      "time": 22
+    },
+    {
+      "id": 9,
+      "developer": "Ronnie Moxley",
+      "task": "Converting app to React",
+      "date": "04.01.2022.",
+      "time": 134
+    },
+    {
+      "id": 10,
+      "developer": "Loreta Ipsum",
+      "task": "Updating wordpress",
+      "date": "03.01.2022.",
+      "time": 15
+    }
+  ]
+}

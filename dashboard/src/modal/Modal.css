@@ -1,0 +1,295 @@
+/*MODAL */
+.background-users{
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+    overflow: auto;
+    padding: 15px;
+    transition: 0.5s;
+    z-index: 5;
+  }
+  .new-user{
+    position: fixed;
+    top: 0px;
+    background-color: white;
+    width: 480px;
+    transition: 0.3s;
+    z-index: 10;
+    height: 100%;
+    padding: 20px 0;
+  }
+  .new-user{
+    right: 0;
+    box-shadow: -2px 0px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 20px 0px 0px 20px;
+    overflow-y: scroll;
+  }
+  .new-user h2{
+    margin: auto;
+    width: 360px;
+    font-size: 30px;
+    line-height: 19px;
+    margin-top: 25px;
+  }
+  .add-img{
+    margin: 35px 0 20px 0;
+    text-align: center;
+  }
+  .add-img input{
+    font-size: 14px;
+    color: #A2A2A2;
+    width: 80px; 
+    height: 80px; 
+    border-radius: 50%;
+    border: 0.4px solid #CCC7F5;
+    text-align: center;
+  }
+  .inputs input,
+  textarea,
+  .date input,
+  .inputsClient input{ 
+    height: 30px;
+    margin: 0px;
+    border: 0.4px solid #CCC7F5;
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-style: normal;
+    font-size: 14px;
+    color: #A2A2A2;
+    padding: 5px 20px;
+  }
+  .inputs{
+    display: grid;
+    grid-template-rows: repeat(9, 1fr);
+    width: 360px;
+    margin: auto;
+    row-gap: 22px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+  }
+  .inputsClient{
+    display: grid;
+    grid-template-rows: repeat(7, 1fr);
+    width: 360px;
+    margin: auto;
+    row-gap: 22px;
+    margin-top: 20px;
+  }
+  .cancle-and-add{
+    display: grid;
+    grid-template-columns: auto auto;
+    width: 360px;
+    margin-top: 50px;
+  }
+  .cancle-btn button{
+    background: white;
+    color: #606060;
+  }
+  /******delete*******/
+.delete,
+.times,
+.box{
+    box-sizing: border-box;
+}
+.delete-center,
+.time-center,
+.dollars-center{
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+    z-index: 50;
+    overflow: auto;
+    padding: 15px;
+}
+.wraper{
+    padding: 30px;
+}
+.time-center{
+    display: flex;
+}
+.input-time-client{
+    border: 0.4px solid #CCC7F5;
+    border-radius: 4px;
+}
+.delete-center{
+    display: flex;
+}
+.dollars-center{
+    display: flex;
+}
+.popup{
+    margin: auto;
+    background: white;
+    max-width: 600px;
+    width: 100%;
+    text-align: center;
+}
+.popup p{
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 400;
+    margin-top: 30px;
+}
+.popup h2{
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 40px;
+    margin: 0;
+}
+.btn-delete{
+    display: grid;
+    grid-template-columns: auto auto;
+    column-gap: 30px;
+    justify-items: right;
+    margin: 31px 0 30px 0;
+}
+.btn-delete input{
+    width: 200px;
+}
+.delete-no{
+    justify-self: left;
+}
+.log-out-btn input{
+  color: #3372ED;
+  background: white;
+  border: 1px solid #3372ED;
+}
+
+/*******time*******/
+.modal-time,
+.dollar-modal{
+    margin: auto;
+    background: white;
+    max-width: 800px;
+    width: 100%;
+    text-align: center;
+    border-radius: 20px;
+    padding: 30px 0;
+}
+.modal-time p
+{
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    margin: 0 0 30px 0;
+}
+.time-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 0 60px;
+    font-size: 14px;
+    line-height: 19px;
+    justify-items: start;
+    column-gap: 120px;
+    margin-bottom: 35px;
+    align-items: flex-start;
+}
+.description{
+    display: grid;
+    row-gap: 10px;
+    justify-items: start;
+}
+.hours-time input{
+    padding: 7px 0;
+}
+.date{
+    display: grid;
+    grid-template-rows: auto 1fr;
+    row-gap: 10px;
+    justify-items: start;
+}
+.delete-margin{
+    margin: 0px;
+}
+.grid-dollars{
+    display: grid;
+    grid-template-columns: 1fr auto;
+    justify-items: center;
+    align-items: center;
+    margin: 0 15px 0 0;
+}
+.grid-dollars p{
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    margin: 30px 0 20px 0;
+}
+.margin-dollars{
+    padding: 0px;
+}
+.email-dollars p{
+    font-size: 14px;
+    line-height: 19px;
+    text-align: left;
+    margin: 20px 0 40px 0;
+    padding-left: 40px;
+}
+.email-dollars{
+    border-top: 0.5px solid #BABABA;
+    margin: 0px 20px;
+}
+
+.btn-cancle-add{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+#btn-add-new-user{
+    color: white;
+}
+.delete-user{
+    display: block;
+    float: right;
+
+}
+/************CLIENT***************/
+.inputs-client input{ 
+    height: 30px;
+    margin: 0px;
+    border: 0.4px solid #CCC7F5;
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-style: normal;
+    font-size: 14px;
+    color: #A2A2A2;
+    padding-left: 20px;
+}
+.inputs-client{
+    display: grid;
+    grid-template-rows: repeat(7, 1fr);
+    width: 360px;
+    margin: auto;
+    row-gap: 22px;
+}
+.textarea{
+    margin: 22px auto;
+    width: 360px;
+}
+textarea{
+    width: 360px;
+    height: 100px;
+    padding: 5px 20px;
+}
+
+.delete-user p{
+    position: absolute;
+    top: 10px;
+    left: 300px;
+    display: block;
+    width: 120px;
+    margin: 0px;
+}
+.delete-user img{
+    padding-left: 10px;
+}
+
+  
